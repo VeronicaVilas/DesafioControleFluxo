@@ -21,6 +21,9 @@ Aprender os fundamentos do Java e praticar alguns dos conteúdos dos módulos de
 ## Funcionamento
 O sistema recebe dois parâmetros via terminal que representarão dois números inteiros, destes, se obterá a quantidade de interações e realizar a impressão no console dos números incrementados, exemplo:
 
+> [!IMPORTANT]   
+> Para prosseguir com a aplicação, o segundo parâmetro deve ser maior que o primeiro.
+
 * Programa: "Digite o primeiro parâmetro"
 * Usuário: 1 *(depois ENTER para o próximo campo)* 
 * Programa: "Digite o segundo parâmetro"
